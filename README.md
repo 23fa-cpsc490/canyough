@@ -89,3 +89,11 @@ Address Feedback (if any):
 
 Collaborators may provide feedback or request changes.
 Make the necessary adjustments by committing and pushing new changes to the same branch.
+
+## List Contributors
+
+To list contributors, use the following command:
+
+```sh
+./contributors.sh
+```
