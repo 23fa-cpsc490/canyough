@@ -1,0 +1,9 @@
+This is a simple text file that I created to practice using GitHub.
+
+Hopefully, this text file can be merged into the 23fa-cpsc490/canyough main branch WITHOUT conflicts.
+
+Fingers crossed!
+
+
+
+// TODO: Employ humor
