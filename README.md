@@ -1,5 +1,4 @@
-#This is the change I made.
-This is another change that was made - Justin Sohn
+This is another change that was made on the repo - Justin Sohn
 
 # canyough
 
