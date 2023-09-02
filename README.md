@@ -1,7 +1,3 @@
-#Funny, those road signs
-#"Caution - Watch for children!" I mean, how dangerous can a child be? 
-
-
 #This is the change I made.
 # canyough
 
