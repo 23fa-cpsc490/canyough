@@ -1,9 +1,13 @@
+This is another change that was made on the repo - Justin Sohn
+
 # canyough
+
 Let's try again.
 
 # UPDATED ASST
 
 ## Do a PR
+
 15 points
 
 ## DM me your Github username (in Zoom chat). Or canvas it to me Or sms it. or email it.
@@ -18,26 +22,29 @@ Let's try again.
 
 ## Create a pull request for your change. It must be for a branch from your fork
 
-----
+---
+
 # CHANGE - READ THIS
+
 ## Before you create your PR, visit the canyough repo.
+
 1. Handle at least one OPEN PR (if present).
    1. review the change.
    2. Make sure it doesn't have conflicts
-   3. Make sure it follows the instructions/configuration below. (from THEIR named branch into canyough's MAIN branch). 
+   3. Make sure it follows the instructions/configuration below. (from THEIR named branch into canyough's MAIN branch).
    4. if it does have conflicts or is not correct, comment so the owner sees them
       1. Assuming no conflicts, MERGE IT.
    5. THEN create your PR.
-   
-***(this should have the effect of keeping the conflicts and merge problems low)***
+
+**_(this should have the effect of keeping the conflicts and merge problems low)_**
 
 # Due: 8/27 11:59 PM
 
 # Upload the link to the PR.
 
-***This has been fun (HHOS). Here are some basic instructions.:***
+**_This has been fun (HHOS). Here are some basic instructions.:_**
 
-*you might wonder how i Gone & Produced These...*
+_you might wonder how i Gone & Produced These..._
 
 # Filing a Pull Request on GitHub: A Step-by-Step Guide
 
@@ -48,11 +55,13 @@ Click on the "Fork" button in the top-right corner to create your personal copy 
 Clone the Forked Repository:
 
 ## On your GitHub profile, navigate to the forked repository.
+
 Click on the "Code" button and copy the repository's URL.
 Open a terminal on your computer and use the git clone command followed by the copied URL to clone the repository.
 Create a New Branch:
 
 ## Navigate to the repository directory in your terminal using cd repository-name.
+
 Create a new branch for your changes using the git checkout -b branch-name command.
 
 ## Make a Single Change:
@@ -66,11 +75,10 @@ Save the changes in your code editor.
 In the terminal, use the following commands:
 
     git add . (to stage your changes)
-    
+
     git commit -m "Brief description of your change" (to commit your changes)
-    
+
     git push origin branch-name (to push your changes to your forked repository)
-    
 
 ## Open a Pull Request:
 

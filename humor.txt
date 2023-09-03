@@ -1,0 +1,1 @@
+Why do Java programmers hate C and C++? Because Java doesn't have pointers.
